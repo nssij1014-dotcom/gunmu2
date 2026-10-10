@@ -1,0 +1,6 @@
+win/node_modules/
+win/dist/
+win/app/
+apk/node_modules/
+apk/www/
+apk/android/
